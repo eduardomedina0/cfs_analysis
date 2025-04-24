@@ -1,0 +1,284 @@
+Geography
+Geographic Area Name
+Estimate!!Total!!Population 16 years and over
+Margin of Error!!Total!!Population 16 years and over
+Estimate!!Total!!Population 16 years and over!!AGE!!16 to 19 years
+Margin of Error!!Total!!Population 16 years and over!!AGE!!16 to 19 years
+Estimate!!Total!!Population 16 years and over!!AGE!!20 to 24 years
+Margin of Error!!Total!!Population 16 years and over!!AGE!!20 to 24 years
+Estimate!!Total!!Population 16 years and over!!AGE!!25 to 29 years
+Margin of Error!!Total!!Population 16 years and over!!AGE!!25 to 29 years
+Estimate!!Total!!Population 16 years and over!!AGE!!30 to 34 years
+Margin of Error!!Total!!Population 16 years and over!!AGE!!30 to 34 years
+Estimate!!Total!!Population 16 years and over!!AGE!!35 to 44 years
+Margin of Error!!Total!!Population 16 years and over!!AGE!!35 to 44 years
+Estimate!!Total!!Population 16 years and over!!AGE!!45 to 54 years
+Margin of Error!!Total!!Population 16 years and over!!AGE!!45 to 54 years
+Estimate!!Total!!Population 16 years and over!!AGE!!55 to 59 years
+Margin of Error!!Total!!Population 16 years and over!!AGE!!55 to 59 years
+Estimate!!Total!!Population 16 years and over!!AGE!!60 to 64 years
+Margin of Error!!Total!!Population 16 years and over!!AGE!!60 to 64 years
+Estimate!!Total!!Population 16 years and over!!AGE!!65 to 74 years
+Margin of Error!!Total!!Population 16 years and over!!AGE!!65 to 74 years
+Estimate!!Total!!Population 16 years and over!!AGE!!75 years and over
+Margin of Error!!Total!!Population 16 years and over!!AGE!!75 years and over
+Estimate!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone
+Margin of Error!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone
+Estimate!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone
+Margin of Error!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone
+Estimate!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone
+Margin of Error!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone
+Estimate!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone
+Margin of Error!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone
+Estimate!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone
+Margin of Error!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone
+Estimate!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone
+Margin of Error!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone
+Estimate!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races
+Margin of Error!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races
+Estimate!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)
+Margin of Error!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)
+Estimate!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino
+Margin of Error!!Total!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino
+Estimate!!Total!!Population 20 to 64 years
+Margin of Error!!Total!!Population 20 to 64 years
+Estimate!!Total!!Population 20 to 64 years!!SEX!!Male
+Margin of Error!!Total!!Population 20 to 64 years!!SEX!!Male
+Estimate!!Total!!Population 20 to 64 years!!SEX!!Female
+Margin of Error!!Total!!Population 20 to 64 years!!SEX!!Female
+Estimate!!Total!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years
+Margin of Error!!Total!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years
+Estimate!!Total!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years only
+Margin of Error!!Total!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years only
+Estimate!!Total!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years and 6 to 17  years
+Margin of Error!!Total!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years and 6 to 17  years
+Estimate!!Total!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children 6 to 17 years only
+Margin of Error!!Total!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children 6 to 17 years only
+Estimate!!Total!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level
+Margin of Error!!Total!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level
+Estimate!!Total!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!At or above the poverty level
+Margin of Error!!Total!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!At or above the poverty level
+Estimate!!Total!!Population 20 to 64 years!!DISABILITY STATUS!!With any disability
+Margin of Error!!Total!!Population 20 to 64 years!!DISABILITY STATUS!!With any disability
+Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years
+Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years
+Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Less than high school graduate
+Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Less than high school graduate
+Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!High school graduate (includes equivalency)
+Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!High school graduate (includes equivalency)
+Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Some college or associate's degree
+Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Some college or associate's degree
+Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Bachelor's degree or higher
+Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Bachelor's degree or higher
+Estimate!!Labor Force Participation Rate!!Population 16 years and over
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!16 to 19 years
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!16 to 19 years
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!20 to 24 years
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!20 to 24 years
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!25 to 29 years
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!25 to 29 years
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!30 to 34 years
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!30 to 34 years
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!35 to 44 years
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!35 to 44 years
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!45 to 54 years
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!45 to 54 years
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!55 to 59 years
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!55 to 59 years
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!60 to 64 years
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!60 to 64 years
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!65 to 74 years
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!65 to 74 years
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!75 years and over
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!75 years and over
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)
+Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino
+Estimate!!Labor Force Participation Rate!!Population 20 to 64 years
+Margin of Error!!Labor Force Participation Rate!!Population 20 to 64 years
+Estimate!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Male
+Margin of Error!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Male
+Estimate!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Female
+Margin of Error!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Female
+Estimate!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years
+Margin of Error!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years
+Estimate!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years only
+Margin of Error!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years only
+Estimate!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years and 6 to 17  years
+Margin of Error!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years and 6 to 17  years
+Estimate!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children 6 to 17 years only
+Margin of Error!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children 6 to 17 years only
+Estimate!!Labor Force Participation Rate!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level
+Margin of Error!!Labor Force Participation Rate!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level
+Estimate!!Labor Force Participation Rate!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!At or above the poverty level
+Margin of Error!!Labor Force Participation Rate!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!At or above the poverty level
+Estimate!!Labor Force Participation Rate!!Population 20 to 64 years!!DISABILITY STATUS!!With any disability
+Margin of Error!!Labor Force Participation Rate!!Population 20 to 64 years!!DISABILITY STATUS!!With any disability
+Estimate!!Labor Force Participation Rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years
+Margin of Error!!Labor Force Participation Rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years
+Estimate!!Labor Force Participation Rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Less than high school graduate
+Margin of Error!!Labor Force Participation Rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Less than high school graduate
+Estimate!!Labor Force Participation Rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!High school graduate (includes equivalency)
+Margin of Error!!Labor Force Participation Rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!High school graduate (includes equivalency)
+Estimate!!Labor Force Participation Rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Some college or associate's degree
+Margin of Error!!Labor Force Participation Rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Some college or associate's degree
+Estimate!!Labor Force Participation Rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Bachelor's degree or higher
+Margin of Error!!Labor Force Participation Rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Bachelor's degree or higher
+Estimate!!Employment/Population Ratio!!Population 16 years and over
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!AGE!!16 to 19 years
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!AGE!!16 to 19 years
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!AGE!!20 to 24 years
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!AGE!!20 to 24 years
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!AGE!!25 to 29 years
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!AGE!!25 to 29 years
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!AGE!!30 to 34 years
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!AGE!!30 to 34 years
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!AGE!!35 to 44 years
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!AGE!!35 to 44 years
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!AGE!!45 to 54 years
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!AGE!!45 to 54 years
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!AGE!!55 to 59 years
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!AGE!!55 to 59 years
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!AGE!!60 to 64 years
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!AGE!!60 to 64 years
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!AGE!!65 to 74 years
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!AGE!!65 to 74 years
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!AGE!!75 years and over
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!AGE!!75 years and over
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)
+Estimate!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino
+Margin of Error!!Employment/Population Ratio!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino
+Estimate!!Employment/Population Ratio!!Population 20 to 64 years
+Margin of Error!!Employment/Population Ratio!!Population 20 to 64 years
+Estimate!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Male
+Margin of Error!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Male
+Estimate!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Female
+Margin of Error!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Female
+Estimate!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years
+Margin of Error!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years
+Estimate!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years only
+Margin of Error!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years only
+Estimate!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years and 6 to 17  years
+Margin of Error!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years and 6 to 17  years
+Estimate!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children 6 to 17 years only
+Margin of Error!!Employment/Population Ratio!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children 6 to 17 years only
+Estimate!!Employment/Population Ratio!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level
+Margin of Error!!Employment/Population Ratio!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level
+Estimate!!Employment/Population Ratio!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!At or above the poverty level
+Margin of Error!!Employment/Population Ratio!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!At or above the poverty level
+Estimate!!Employment/Population Ratio!!Population 20 to 64 years!!DISABILITY STATUS!!With any disability
+Margin of Error!!Employment/Population Ratio!!Population 20 to 64 years!!DISABILITY STATUS!!With any disability
+Estimate!!Employment/Population Ratio!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years
+Margin of Error!!Employment/Population Ratio!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years
+Estimate!!Employment/Population Ratio!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Less than high school graduate
+Margin of Error!!Employment/Population Ratio!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Less than high school graduate
+Estimate!!Employment/Population Ratio!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!High school graduate (includes equivalency)
+Margin of Error!!Employment/Population Ratio!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!High school graduate (includes equivalency)
+Estimate!!Employment/Population Ratio!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Some college or associate's degree
+Margin of Error!!Employment/Population Ratio!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Some college or associate's degree
+Estimate!!Employment/Population Ratio!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Bachelor's degree or higher
+Margin of Error!!Employment/Population Ratio!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Bachelor's degree or higher
+Estimate!!Unemployment rate!!Population 16 years and over
+Margin of Error!!Unemployment rate!!Population 16 years and over
+Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!16 to 19 years
+Margin of Error!!Unemployment rate!!Population 16 years and over!!AGE!!16 to 19 years
+Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!20 to 24 years
+Margin of Error!!Unemployment rate!!Population 16 years and over!!AGE!!20 to 24 years
+Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!25 to 29 years
+Margin of Error!!Unemployment rate!!Population 16 years and over!!AGE!!25 to 29 years
+Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!30 to 34 years
+Margin of Error!!Unemployment rate!!Population 16 years and over!!AGE!!30 to 34 years
+Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!35 to 44 years
+Margin of Error!!Unemployment rate!!Population 16 years and over!!AGE!!35 to 44 years
+Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!45 to 54 years
+Margin of Error!!Unemployment rate!!Population 16 years and over!!AGE!!45 to 54 years
+Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!55 to 59 years
+Margin of Error!!Unemployment rate!!Population 16 years and over!!AGE!!55 to 59 years
+Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!60 to 64 years
+Margin of Error!!Unemployment rate!!Population 16 years and over!!AGE!!60 to 64 years
+Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!65 to 74 years
+Margin of Error!!Unemployment rate!!Population 16 years and over!!AGE!!65 to 74 years
+Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!75 years and over
+Margin of Error!!Unemployment rate!!Population 16 years and over!!AGE!!75 years and over
+Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone
+Margin of Error!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone
+Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone
+Margin of Error!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone
+Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone
+Margin of Error!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone
+Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone
+Margin of Error!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone
+Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone
+Margin of Error!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone
+Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone
+Margin of Error!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone
+Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races
+Margin of Error!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races
+Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)
+Margin of Error!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)
+Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino
+Margin of Error!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino
+Estimate!!Unemployment rate!!Population 20 to 64 years
+Margin of Error!!Unemployment rate!!Population 20 to 64 years
+Estimate!!Unemployment rate!!Population 20 to 64 years!!SEX!!Male
+Margin of Error!!Unemployment rate!!Population 20 to 64 years!!SEX!!Male
+Estimate!!Unemployment rate!!Population 20 to 64 years!!SEX!!Female
+Margin of Error!!Unemployment rate!!Population 20 to 64 years!!SEX!!Female
+Estimate!!Unemployment rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years
+Margin of Error!!Unemployment rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years
+Estimate!!Unemployment rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years only
+Margin of Error!!Unemployment rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years only
+Estimate!!Unemployment rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years and 6 to 17  years
+Margin of Error!!Unemployment rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children under 6 years and 6 to 17  years
+Estimate!!Unemployment rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children 6 to 17 years only
+Margin of Error!!Unemployment rate!!Population 20 to 64 years!!SEX!!Female!!With own children under 18 years!!With own children 6 to 17 years only
+Estimate!!Unemployment rate!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level
+Margin of Error!!Unemployment rate!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level
+Estimate!!Unemployment rate!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!At or above the poverty level
+Margin of Error!!Unemployment rate!!Population 20 to 64 years!!POVERTY STATUS IN THE PAST 12 MONTHS!!At or above the poverty level
+Estimate!!Unemployment rate!!Population 20 to 64 years!!DISABILITY STATUS!!With any disability
+Margin of Error!!Unemployment rate!!Population 20 to 64 years!!DISABILITY STATUS!!With any disability
+Estimate!!Unemployment rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years
+Margin of Error!!Unemployment rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years
+Estimate!!Unemployment rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Less than high school graduate
+Margin of Error!!Unemployment rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Less than high school graduate
+Estimate!!Unemployment rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!High school graduate (includes equivalency)
+Margin of Error!!Unemployment rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!High school graduate (includes equivalency)
+Estimate!!Unemployment rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Some college or associate's degree
+Margin of Error!!Unemployment rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Some college or associate's degree
+Estimate!!Unemployment rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Bachelor's degree or higher
+Margin of Error!!Unemployment rate!!EDUCATIONAL ATTAINMENT!!Population 25 to 64 years!!Bachelor's degree or higher
+Unnamed: 282
+ZipClean

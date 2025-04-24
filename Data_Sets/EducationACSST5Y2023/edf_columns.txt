@@ -1,0 +1,771 @@
+Geography
+Geographic Area Name
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Margin of Error!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Estimate!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Margin of Error!!Percent!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Estimate!!Percent!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Margin of Error!!Percent!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Estimate!!Percent!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Margin of Error!!Percent!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Estimate!!Percent!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Margin of Error!!Percent!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Estimate!!Percent!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Margin of Error!!Percent!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Estimate!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Margin of Error!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Estimate!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Margin of Error!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Estimate!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Margin of Error!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Estimate!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Margin of Error!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Estimate!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Margin of Error!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Estimate!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Margin of Error!!Percent!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Estimate!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Margin of Error!!Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Estimate!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Margin of Error!!Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Estimate!!Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Margin of Error!!Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Estimate!!Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Margin of Error!!Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Estimate!!Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Margin of Error!!Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Estimate!!Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Margin of Error!!Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Estimate!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Margin of Error!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Estimate!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Margin of Error!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Estimate!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Margin of Error!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Estimate!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Margin of Error!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Estimate!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Margin of Error!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Estimate!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Margin of Error!!Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Estimate!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Estimate!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Estimate!!Percent Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Margin of Error!!Percent Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Estimate!!Percent Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Margin of Error!!Percent Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Estimate!!Percent Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Margin of Error!!Percent Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Estimate!!Percent Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Margin of Error!!Percent Male!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Estimate!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Margin of Error!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Estimate!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Margin of Error!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Estimate!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Margin of Error!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Estimate!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Margin of Error!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Estimate!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Margin of Error!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Estimate!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Margin of Error!!Percent Male!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Estimate!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Margin of Error!!Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Estimate!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Margin of Error!!Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Estimate!!Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Margin of Error!!Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Estimate!!Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Margin of Error!!Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Estimate!!Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Margin of Error!!Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Estimate!!Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Margin of Error!!Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Estimate!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Margin of Error!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Estimate!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Margin of Error!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Estimate!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Margin of Error!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Estimate!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Margin of Error!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Estimate!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Margin of Error!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Estimate!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Margin of Error!!Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency)
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher
+Estimate!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher
+Estimate!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher
+Estimate!!Percent Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Margin of Error!!Percent Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate
+Estimate!!Percent Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Margin of Error!!Percent Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency)
+Estimate!!Percent Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Margin of Error!!Percent Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree
+Estimate!!Percent Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Margin of Error!!Percent Female!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher
+Estimate!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Margin of Error!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings
+Estimate!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Margin of Error!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate
+Estimate!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Margin of Error!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency)
+Estimate!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Margin of Error!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree
+Estimate!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Margin of Error!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree
+Estimate!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Margin of Error!!Percent Female!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree
+Unnamed: 770

@@ -1,0 +1,10 @@
+Geography
+Geographic Area Name
+Estimate!!Households!!Total
+Margin of Error!!Households!!Total
+Estimate!!Households!!Median income (dollars)
+Margin of Error!!Households!!Median income (dollars)
+Estimate!!Households!!Mean income (dollars)
+Margin of Error!!Households!!Mean income (dollars)
+Unnamed: 130
+ZipClean

@@ -1,0 +1,10 @@
+Geography
+Geographic Area Name
+Estimate!!Total!!Population 16 years and over
+Margin of Error!!Total!!Population 16 years and over
+Estimate!!Labor Force Participation Rate!!Population 16 years and over
+Margin of Error!!Labor Force Participation Rate!!Population 16 years and over
+Estimate!!Unemployment rate!!Population 16 years and over
+Margin of Error!!Unemployment rate!!Population 16 years and over
+Unnamed: 282
+ZipClean
